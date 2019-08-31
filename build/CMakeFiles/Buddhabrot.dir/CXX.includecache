@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlobonandrini/develop/Buddhabrot/src/Buddhabrot.cpp
+SFML/Graphics.hpp
+-
+random
+-
+chrono
+-
+iostream
+-
+

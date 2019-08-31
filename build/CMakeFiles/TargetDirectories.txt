@@ -1,0 +1,3 @@
+/Users/carlobonandrini/develop/Buddhabrot/build/CMakeFiles/rebuild_cache.dir
+/Users/carlobonandrini/develop/Buddhabrot/build/CMakeFiles/edit_cache.dir
+/Users/carlobonandrini/develop/Buddhabrot/build/CMakeFiles/Buddhabrot.dir
